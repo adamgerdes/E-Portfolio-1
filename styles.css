@@ -171,7 +171,7 @@ nav {
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16);
-  margin-bottom: 28px;
+  margin-bottom: 24px;
   animation: animate-profile-picture 800ms 200ms backwards;
 }
 
